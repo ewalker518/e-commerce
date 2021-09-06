@@ -1,5 +1,7 @@
 # E-commerce Back End
 
+![node.js badge](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
+
 ## Description
 
 This application is a basic framework for the back end of an e-commerce site, with models for products as well as categories and tags that can be associated with those products.
@@ -16,3 +18,16 @@ This application is a basic framework for the back end of an e-commerce site, wi
 * Node.js
 * Sequelize
 * MySQL
+
+## Credits
+
+* Stack Overflow
+* U of U Coding Boot Camp
+* W3 Schools
+* MDN Web Docs
+
+-----
+
+GitHub: [ewalker518](https://github.com/ewalker518/)
+
+Email: [ewalkertbone@gmail.com](mailto:ewalkertbone@gmail.com)
