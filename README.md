@@ -8,6 +8,6 @@ This application is a basic framework for the back end of an e-commerce site, wi
 
 ## Built With
 
-*Node.js
-*Sequelize
-*MySQL
+* Node.js
+* Sequelize
+* MySQL
