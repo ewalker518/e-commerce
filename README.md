@@ -6,7 +6,7 @@ This application is a basic framework for the back end of an e-commerce site, wi
 
 ## Demonstrations
 * Creating the schema
-https://drive.google.com/file/d/151KLJKcadtDrYh0snrHcaPZEE6QVxLzK/view
+![](https://drive.google.com/file/d/151KLJKcadtDrYh0snrHcaPZEE6QVxLzK/view)
 
 ## Built With
 
